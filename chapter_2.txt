@@ -14,3 +14,8 @@ def chapter02_01(number)
   end
 end
 chapter02_01(20)
+
+
+
+def chapter02_02(array)
+  
